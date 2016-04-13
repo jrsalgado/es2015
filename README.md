@@ -19,54 +19,9 @@ Harmony new features
 - Symbol Type
 - Template Literals
 
-
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-+ sdsfsfdsfsadf
-
-
-
-## COMPARISON
-### Arrow Functions
+## Arrow Functions
 description
+  - ### Expression bodies
+  - ### Lexical this
 
-### Classes
+## Classes
